@@ -23,10 +23,10 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ghinayantes/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ghinayantes&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="150" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ghinayantes/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="150" />
   </a>
 </div>
