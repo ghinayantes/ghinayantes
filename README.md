@@ -2,11 +2,13 @@
 <h3 align="center">Mahasiswa STEI-K @ ITB 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username-kamu&label=Profile%20Views&color=0e75b6&style=flat" alt="username-kamu" />
+  <img src="https://komarev.com/ghpvc/?username=ghinayantes&label=Profile%20Views&color=0e75b6&style=flat" alt="ghinayantes" />
 </p>
 
 <p align="center">
- 
+
+</p>
+
 <br>
 
 <h3 align="left">🛠 Languages & Tools</h3>
@@ -22,10 +24,10 @@
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="150" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ghinayantes&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="150" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-kamu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="150" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="150" />
   </a>
 </div>
 
