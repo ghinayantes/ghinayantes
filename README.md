@@ -16,9 +16,5 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ghinayantes/ghinayantes/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
 ### 🚀 Activity Overview
 ![Metrics](https://raw.githubusercontent.com/ghinayantes/ghinayantes/main/github-metrics.svg)
