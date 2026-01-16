@@ -24,4 +24,4 @@
 </p>
 
 ### 🚀 Activity Overview
-![Metrics](https://github.com/ghinayantes/ghinayantes/releases/download/metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/ghinayantes/ghinayantes/main/github-metrics.svg)
