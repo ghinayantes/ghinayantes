@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]!</h1>
+<h1 align="center">Hi 👋, I'm Ghina Emelia Yantes!</h1>
 <h3 align="center">Mahasiswa STEI-K @ ITB 🚀</h3>
 
 <p align="center">
@@ -6,11 +6,7 @@
 </p>
 
 <p align="center">
- 🔭 I’m currently working on <b>Physics & Chemistry Computational Projects</b><br>
- 🌱 I’m currently learning <b>Data Structures & Algorithms</b><br>
- ⚡ Fun fact: <b>I love solving Calculus problems!</b>
-</p>
-
+ 
 <br>
 
 <h3 align="left">🛠 Languages & Tools</h3>
