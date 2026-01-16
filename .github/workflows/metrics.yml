@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  # Update setiap jam 00:00 WIB
+  schedule: [{cron: "0 17 * * *"}]
+  # Bisa dijalankan manual juga
+  workflow_dispatch:
+  # Jalan setiap ada update di branch main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token standar GitHub (tidak perlu bikin manual)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Identitas Kamu
+          user: ghinayantes
+          template: classic
+          
+          # FITUR UTAMA: Ini yang bikin grafik Radar & Activity Overview muncul
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
