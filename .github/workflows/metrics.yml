@@ -2,9 +2,7 @@ name: Metrics
 on:
   # Update setiap jam 00:00 WIB
   schedule: [{cron: "0 17 * * *"}]
-  # Bisa dijalankan manual juga
   workflow_dispatch:
-  # Jalan setiap ada update di branch main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,13 +12,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token standar GitHub (tidak perlu bikin manual)
           token: ${{ secrets.GITHUB_TOKEN }}
           
           # Identitas Kamu
           user: ghinayantes
           template: classic
           
-          # FITUR UTAMA: Ini yang bikin grafik Radar & Activity Overview muncul
+          # FITUR 1: Grafik Dasar (Activity Overview)
           base: header, activity, community, repositories, metadata
+          
+          # FITUR 2: Grafik Koordinat/Jaring (Bahasa Pemrograman)
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_recent_categories: markup, programming
+          
+          # FITUR 3: Kalender 3D (Kotak-kotak Timbul Keren)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
           config_timezone: Asia/Jakarta
