@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghina Emelia Yantes!</h1>
-<h3 align="center">Mahasiswa STEI-K @ ITB 🚀</h3>
+<h3 align="center">Mahasiswa STEI-K ITB 2025</h3>
 
 <p align="center">
 
