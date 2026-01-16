@@ -22,3 +22,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </p>
+
+### 🚀 Activity Overview
+![Metrics](https://github.com/ghinayantes/ghinayantes/releases/download/metrics/github-metrics.svg)
