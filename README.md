@@ -2,10 +2,6 @@
 <h3 align="center">Mahasiswa STEI-K @ ITB 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghinayantes&label=Profile%20Views&color=0e75b6&style=flat" alt="ghinayantes" />
-</p>
-
-<p align="center">
 
 </p>
 
@@ -21,11 +17,5 @@
 
 <br>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghinayantes&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="150" />
-</div>
 
 <br clear="both">
