@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=header&text=&animation=fadeIn" width="100%"/>
     
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B" alt="Hi" />
 
