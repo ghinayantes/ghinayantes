@@ -39,8 +39,7 @@ class Ghina:
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=ghinayantes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" />&nbsp;&nbsp;<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
 
 <br/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=ghinayantes&theme=dark&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
 
 <div align="center">
 
