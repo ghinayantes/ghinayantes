@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1>Hi, I'm Ghina Emelia Yantes!</h1>
+  <h1>Hi, I'm Ghina Emelia Yantes</h1>
   <p>Teknik Informatika at Institut Teknologi Bandung </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -16,5 +16,5 @@
 
 <br/>
 
-### 🚀 Activity Overview
+###  Activity Overview
 ![Metrics](https://raw.githubusercontent.com/ghinayantes/ghinayantes/main/github-metrics.svg)
