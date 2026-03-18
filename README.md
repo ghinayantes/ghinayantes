@@ -1,20 +1,71 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <h1>Hi, I'm Ghina Emelia Yantes</h1>
-  <p>Teknik Informatika at Institut Teknologi Bandung </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B" alt="Hi" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+Ghina+Emelia+Yantes" alt="Name" />
+
+```
+╔══════════════════════════════════════════╗
+║            Informatics @ ITB             ║
+╚══════════════════════════════════════════╝
+```
+
 </div>
 
----
+<div align="center"><kbd>&nbsp;&nbsp; whoami &nbsp;&nbsp;</kbd></div>
 
-### <h3> Tech Stack <h3>
+```python
+class Ghina:
+    university  = "Institut Teknologi Bandung"
+    major       = "Teknik Informatika"
+    status      = "Sophomore · Semester 2"
+```
+
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+
+<kbd>&nbsp;&nbsp; stack &nbsp;&nbsp;</kbd>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d)&nbsp;
+![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=white&labelColor=0d0d0d)&nbsp;
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=white&labelColor=0d0d0d)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d0d0d)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=white&labelColor=0d0d0d)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-0d0d0d?style=flat-square&logo=markdown&logoColor=white&labelColor=0d0d0d)
+
 </div>
+
+<div align="center">
+
+<kbd>&nbsp;&nbsp; stats &nbsp;&nbsp;</kbd>
+
+<br/><br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=ghinayantes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" />&nbsp;&nbsp;<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
 
 <br/>
 
-###  Activity Overview
+<img src="https://streak-stats.demolab.com?user=ghinayantes&theme=dark&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
+
+</div>
+
+<div align="center">
+
+<kbd>&nbsp;&nbsp; activity &nbsp;&nbsp;</kbd>
+
+<br/><br/>
+
 ![Metrics](https://raw.githubusercontent.com/ghinayantes/ghinayantes/main/github-metrics.svg)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=80&section=footer" width="100%"/>
+
+`while(alive) { code(); learn(); repeat(); }`
+
+</div>
