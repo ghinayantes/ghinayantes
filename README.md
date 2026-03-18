@@ -25,20 +25,16 @@ class Ghina:
 
 <kbd>&nbsp;&nbsp; stack &nbsp;&nbsp;</kbd>
 
-<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=white&labelColor=0d0d0d)&nbsp;
 ![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=white&labelColor=0d0d0d)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=white&labelColor=0d0d0d)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d0d0d)&nbsp;
 
-</div>
 
 <div align="center">
 
 <kbd>&nbsp;&nbsp; stats &nbsp;&nbsp;</kbd>
-
-<br/><br/>
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=ghinayantes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" />&nbsp;&nbsp;<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" />
 
