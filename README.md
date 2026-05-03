@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER CARD -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=80&text=GY&fontColor=888888&fontSize=28&fontAlign=12&fontAlignY=35&desc=Ghina%20Emelia%20Yantes&descAlign=38&descAlignY=35&descSize=22&descColor=ffffff&animation=fadeIn" width="100%"/>
+<div align="center">
+<img src="header.svg" width="100%"/>
+</div>
 
 </div>
 
