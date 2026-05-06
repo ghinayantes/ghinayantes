@@ -43,7 +43,7 @@ class Ghina:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ghinayantes&theme=dark&hide_border=true&background=0d0d0d&stroke=222222&ring=7F77DD&fire=7F77DD&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ghinayantes&theme=github_dark&hide_border=true&background=0d0d0d&stroke=222222&ring=7F77DD&fire=7F77DD&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
 
 </div>
 
