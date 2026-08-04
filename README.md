@@ -20,6 +20,7 @@ Bandung, Indonesia ·  B.Sc. Informatics, ITB
 
 Contact: [LinkedIn](https://www.linkedin.com/in/ghina-emelia-yantes-3162592a7/) · [Instagram](https://www.instagram.com/ghinayantes/)
 
+Portofolio: [CV](https://drive.google.com/file/d/1b031gqgm-8JXPF7uQemDKuvI2DASqX1O/view?usp=sharing)
 <h3 align="left"> Stack </h3>
 
 ![Python](https://img.shields.io/badge/●_Python-1a1a2e?style=flat-square&logoColor=3572A5&labelColor=1a1a2e&color=1a1a2e&logo=python)&nbsp;
