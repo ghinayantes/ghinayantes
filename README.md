@@ -1,28 +1,24 @@
-<div align="center">
+<h2 align="left">Hi!, I'm Ghina </h2>
+<p> An Informatics undergraduate at Institut Teknologi Bandung. My background is in competitive mathematics, and I am now applying the same structured, systematic way of thinking to software development </p>
 
-<!-- HEADER CARD -->
-<div align="center">
-<img src="header.svg" width="100%"/>
-</div>
+Bandung, Indonesia ·  B.Sc. Informatics, ITB 
 
-</div>
-
-<div align="center">
-
-</div>
+<h3 align="left"> About Me </h3>
+<p> Grantee, Paragon Scholarship Program (PSP) Excellence, Currently exploring Informatics! </p>
 
 ---
+### Selected Projects
 
-`// whoami`
+| Project | Stack | Description |
+|---|---|---|
+| [UNI – UNO Card Game](https://github.com/ghinayantes/IF1221_G08_InfokanMabarEpEp) | Prolog | A team project for the Computational Logic course. A text-based UNO implementation for 2–4 players, featuring a 2v2 tournament mode and additional mechanics such as Wild Draw Four challenges, card-hiding, randomized "God's Hand" events, and Mimic cards. |
+| [Consistent Hashing Ring](https://github.com/ghinayantes/IF1220-Matematika-DIskrit-Makalah) | Python | Written for a Discrete Mathematics paper — an implementation of consistent hashing with weighted virtual nodes for more balanced key distribution. |
+| [Elevator Simulation](https://github.com/ghinayantes/Tubes-Berkom-1) | Python | A terminal-based elevator control simulation featuring capacity management, dynamic directional logic, and automated idle behavior. |
+| [Digital Canteen Ordering System](https://github.com/ghinayantes/Tubes-Berkom-2) | Python | A CLI simulation of a campus canteen ordering system — vendor selection, checkout, cash/QRIS payment, and queue status tracking. |
+| [Personal Portfolio](https://github.com/ghinayantes/Web-Development-GDOCITB) | React, TypeScript, Tailwind, Vite | Currently in development as part of the GDGoC ITB Web Development track. |
+| Area Calculator | Scratch | A flat-shape area calculator based on the shoelace formula — my earliest project, and still a personal favorite. |
 
-```python
-class Ghina:
-    university  = "Institut Teknologi Bandung"
-    major       = "Teknik Informatika"
-    status      = "Sophomore · Semester 2"
-```
-
----
+Contact: [LinkedIn](https://www.linkedin.com/in/ghina-emelia-yantes-3162592a7/) · [Instagram](https://www.instagram.com/ghinayantes/)
 
 `// stack`
 
@@ -33,13 +29,8 @@ class Ghina:
 ![VSCode](https://img.shields.io/badge/●_VSCode-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Linux](https://img.shields.io/badge/●_Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 
----
 
 `// stats`
-
-<div align="center">
-
-<img height="148" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ghinayantes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=7F77DD&include_all_commits=true&count_private=true" />&nbsp;<img height="148" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghinayantes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=5" />
 
 <br/>
 
@@ -47,10 +38,3 @@ class Ghina:
 
 </div>
 
----
-
-<div align="center">
-
-`while (alive) { learn(); build(); commit(); repeat(); }`
-
-</div>
