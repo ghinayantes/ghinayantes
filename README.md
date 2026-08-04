@@ -20,7 +20,7 @@ Bandung, Indonesia ·  B.Sc. Informatics, ITB
 
 Contact: [LinkedIn](https://www.linkedin.com/in/ghina-emelia-yantes-3162592a7/) · [Instagram](https://www.instagram.com/ghinayantes/)
 
-`// stack`
+<h3 align="left"> Stack </h3>
 
 ![Python](https://img.shields.io/badge/●_Python-1a1a2e?style=flat-square&logoColor=3572A5&labelColor=1a1a2e&color=1a1a2e&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/●_C-1a1a2e?style=flat-square&logo=c&logoColor=888888&labelColor=1a1a2e&color=1a1a2e)&nbsp;
@@ -29,9 +29,10 @@ Contact: [LinkedIn](https://www.linkedin.com/in/ghina-emelia-yantes-3162592a7/) 
 ![VSCode](https://img.shields.io/badge/●_VSCode-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Linux](https://img.shields.io/badge/●_Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 
+---
+<h3 align="left"> Stats </h3>
 
-`// stats`
-
+<div align="center">
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ghinayantes&theme=github_dark&hide_border=true&background=0d0d0d&stroke=222222&ring=7F77DD&fire=7F77DD&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
