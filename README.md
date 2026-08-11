@@ -30,13 +30,3 @@ Portofolio: [CV](https://drive.google.com/file/d/1b031gqgm-8JXPF7uQemDKuvI2DASqX
 ![VSCode](https://img.shields.io/badge/●_VSCode-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Linux](https://img.shields.io/badge/●_Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 
----
-<h3 align="left"> Stats </h3>
-
-<div align="center">
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ghinayantes&theme=github_dark&hide_border=true&background=0d0d0d&stroke=222222&ring=7F77DD&fire=7F77DD&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" />
-
-</div>
-
