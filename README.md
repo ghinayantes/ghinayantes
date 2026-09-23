@@ -1,32 +1,18 @@
-<h2 align="left">Hi!, I'm Ghina </h2>
-<p> An Informatics undergraduate at Institut Teknologi Bandung. My background is in competitive mathematics, and I am now applying the same structured, systematic way of thinking to software development </p>
+# Hi, I'm Ghina 
 
-Bandung, Indonesia ·  B.Sc. Informatics, ITB 
+I'm an Informatics student at Institut Teknologi Bandung with a background in competitive mathematics, applying structured, analytical thinking to systems programming, algorithms, and software development. 
 
-<h3 align="left"> About Me </h3>
-<p> Grantee, Paragon Scholarship Program (PSP) Excellence, Currently exploring Informatics! </p>
+## Projects
+
+- [Personal Portfolio](https://github.com/ghinayantes/portofolio) — interactive developer portfolio built with Next.js 16, React 19, TypeScript, and Tailwind CSS.
+- [sOS: x86 Operating System Kernel](https://github.com/ghinayantes/sOS) — from-scratch 32-bit x86 OS kernel with interrupt handling, memory management, and shell (C, x86 Assembly).
+- [AlproShell: Browser & Search Simulator](https://github.com/ghinayantes/if1210-tubes-2026-k01-l) — terminal-based web browser and search engine simulator with tab and history management (C).
+- [UNI: Logic-Based UNO Engine](https://github.com/ghinayantes/IF1221_G08_InfokanMabarEpEp) — multiplayer text-based UNO card game engine with custom mechanics and 2v2 tournaments (GNU Prolog).
+- [Elevator Simulation](https://github.com/ghinayantes/Tubes-Berkom-1) — terminal-based elevator control simulation with directional scheduling and load capacity constraints (Python).
+- [Digital Canteen Ordering System](https://github.com/ghinayantes/Tubes-Berkom-2) — CLI campus canteen ordering and queue tracking system with simulated payments (Python).
 
 ---
-### Selected Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [UNI – UNO Card Game](https://github.com/ghinayantes/IF1221_G08_InfokanMabarEpEp) | Prolog | A team project for the Computational Logic course. A text-based UNO implementation for 2–4 players, featuring a 2v2 tournament mode and additional mechanics such as Wild Draw Four challenges, card-hiding, randomized "God's Hand" events, and Mimic cards. |
-| [Consistent Hashing Ring](https://github.com/ghinayantes/IF1220-Matematika-DIskrit-Makalah) | Python | Written for a Discrete Mathematics paper — an implementation of consistent hashing with weighted virtual nodes for more balanced key distribution. |
-| [Elevator Simulation](https://github.com/ghinayantes/Tubes-Berkom-1) | Python | A terminal-based elevator control simulation featuring capacity management, dynamic directional logic, and automated idle behavior. |
-| [Digital Canteen Ordering System](https://github.com/ghinayantes/Tubes-Berkom-2) | Python | A CLI simulation of a campus canteen ordering system — vendor selection, checkout, cash/QRIS payment, and queue status tracking. |
-| [Personal Portfolio](https://github.com/ghinayantes/Web-Development-GDOCITB) | React, TypeScript, Tailwind, Vite | Currently in development as part of the GDGoC ITB Web Development track. |
-| Area Calculator | Scratch | A flat-shape area calculator based on the shoelace formula — my earliest project, and still a personal favorite. |
-
-Contact: [LinkedIn](https://www.linkedin.com/in/ghina-emelia-yantes-3162592a7/) · [Instagram](https://www.instagram.com/ghinayantes/)
-
-Portofolio: [CV](https://drive.google.com/file/d/1b031gqgm-8JXPF7uQemDKuvI2DASqX1O/view?usp=sharing)
-<h3 align="left"> Stack </h3>
-
-![Python](https://img.shields.io/badge/●_Python-1a1a2e?style=flat-square&logoColor=3572A5&labelColor=1a1a2e&color=1a1a2e&logo=python)&nbsp;
-![C](https://img.shields.io/badge/●_C-1a1a2e?style=flat-square&logo=c&logoColor=888888&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![Prolog](https://img.shields.io/badge/●_Prolog-1a1a2e?style=flat-square&logoColor=6a3d9a&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![Git](https://img.shields.io/badge/●_Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![VSCode](https://img.shields.io/badge/●_VSCode-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![Linux](https://img.shields.io/badge/●_Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghina-emelia-yantes-3162592a7/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ghinayantes/)&nbsp;
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum_Vitae-1a1a2e?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b031gqgm-8JXPF7uQemDKuvI2DASqX1O/view?usp=sharing)
