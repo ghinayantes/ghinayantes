@@ -1,6 +1,6 @@
 # Hi, I'm Ghina 
 
-I'm an Informatics student at Institut Teknologi Bandung with a background in competitive mathematics, applying structured, analytical thinking to systems programming, algorithms, and software development. 
+I'm an Informatics student at Institut Teknologi Bandung, interested in software engineering and AI. I approach problems analytically, enjoy understanding how things work, and am driven to turn ideas into well-crafted software. 
 
 ## Projects
 
