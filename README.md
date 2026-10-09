@@ -2,6 +2,8 @@
 
 I'm an Informatics student at Institut Teknologi Bandung, interested in software engineering and AI. I approach problems analytically, enjoy understanding how things work, and am driven to turn ideas into well-crafted software. 
 
+[personal website](https://ghina-portofolio.vercel.app)
+
 ## Projects
 
 - [Personal Portfolio](https://github.com/ghinayantes/portofolio) — interactive developer portfolio built with Next.js 16, React 19, TypeScript, and Tailwind CSS.
