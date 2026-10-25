@@ -8,7 +8,7 @@ I'm an Informatics student at Institut Teknologi Bandung, interested in software
 
 - [Personal Portfolio](https://github.com/ghinayantes/portofolio) — interactive developer portfolio built with Next.js 16, React 19, TypeScript, and Tailwind CSS.
 - [sOS: x86 Operating System Kernel](https://github.com/ghinayantes/sOS) — from-scratch 32-bit x86 OS kernel with interrupt handling, memory management, and shell (C, x86 Assembly).
-- [AlproShell: Browser & Search Simulator]([https://github.com/ghinayantes/if1210-tubes-2026-k01-l](https://github.com/ghinayantes/if1210-tubes-2026-k01-l-aLproShell)) — terminal-based web browser and search engine simulator with tab and history management (C).
+- [AlproShell: Browser & Search Simulator](https://github.com/ghinayantes/if1210-tubes-2026-k01-l-aLproShell) — terminal-based web browser and search engine simulator with tab and history management (C).
 - [UNI: Logic-Based UNO Engine](https://github.com/ghinayantes/IF1221_G08_InfokanMabarEpEp) — multiplayer text-based UNO card game engine with custom mechanics and 2v2 tournaments (GNU Prolog).
 - [Elevator Simulation](https://github.com/ghinayantes/Tubes-Berkom-1) — terminal-based elevator control simulation with directional scheduling and load capacity constraints (Python).
 - [Digital Canteen Ordering System](https://github.com/ghinayantes/Tubes-Berkom-2) — CLI campus canteen ordering and queue tracking system with simulated payments (Python).
