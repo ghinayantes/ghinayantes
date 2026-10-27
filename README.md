@@ -1,6 +1,6 @@
 # Hi, I'm Ghina
 
-I'm currently studying Informatics at Institut Teknologi Bandung, with an interest in software engineering, Data Science, and AI.  
+I'm currently studying Informatics at Institut Teknologi Bandung, with an interest in software engineering, data science, and AI.  
 I enjoy understanding how things work and turning ideas into well-crafted software. More of my work is on my [personal website](https://ghina-portofolio.vercel.app).
 
 ## Projects
