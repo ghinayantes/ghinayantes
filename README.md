@@ -16,10 +16,6 @@ Built [sOS](https://github.com/ghinayantes/sOS) a from-scratch 32-bit x86 operat
 Built [AlproShell](https://github.com/ghinayantes/if1210-tubes-2026-k01-l-aLproShell) a terminal-based web browser and search engine simulator with tab and history management.
 - UNI - GNU Prolog, Logic Programming, Game Engine <br>
 Built [UNI](https://github.com/ghinayantes/IF1221_G08_InfokanMabarEpEp) a multiplayer text-based UNO card game engine with custom mechanics and 2v2 tournaments.
-- Elevator Simulation - Python, Scheduling, CLI <br>
-Built [Elevator Simulation](https://github.com/ghinayantes/Tubes-Berkom-1) a terminal-based elevator control simulation with directional scheduling and load capacity constraints.
-- Digital Canteen Ordering System - Python, Queue System, CLI <br>
-Built [Digital Canteen](https://github.com/ghinayantes/Tubes-Berkom-2) a campus canteen ordering and queue tracking system with simulated payments.
 
 ## Connect
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://ghina-portofolio.vercel.app)&nbsp;
