@@ -6,8 +6,8 @@ I enjoy understanding how things work and turning ideas into well-crafted softwa
 ## Projects
 - Personal Portfolio - Next.js 16, React 19, TypeScript, Tailwind CSS <br>
 Built [Personal Portfolio](https://github.com/ghinayantes/portofolio) an interactive developer portfolio showcasing my projects, experience, and skills.
-- Food Waste Stop - Next.js, FastAPI, PostgreSQL, Software Engineering <br>
-Designed [Food Waste Stop](https://github.com/ghinayantes/IF2150-RPL-K02-G06) a gamified web app that connects campus canteen sellers with students to sell surplus food at discounted prices, with points and rewards to build waste-reducing habits.
+- SaveBite - Next.js, FastAPI, PostgreSQL, Software Engineering <br>
+Designed [SaveBite](https://github.com/ghinayantes/IF2150-RPL-K02-G06) a gamified web app that connects campus canteen sellers with students to sell surplus food at discounted prices, with points and rewards to build waste-reducing habits.
 - algeo26-tb1-Padang - Java, JavaFX, Maven, Linear Algebra <br>
 Built [Linear Algebra Calculator](https://github.com/ghinayantes/algeo26-tb1-Padang) a GUI and CLI calculator for solving linear systems (Gauss, Gauss-Jordan, inverse, Cramer), determinants, matrix inverses, polynomial interpolation, and natural cubic spline interpolation and regression, with step-by-step output and plotting.
 - sOS - C, x86 Assembly, Interrupt Handling, Memory Management <br>
